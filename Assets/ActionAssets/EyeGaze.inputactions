@@ -1,0 +1,34 @@
+{
+    "name": "EyeGaze",
+    "maps": [
+        {
+            "name": "Focus Vision",
+            "id": "c55e847e-e556-467c-a389-fa3594c64b02",
+            "actions": [
+                {
+                    "name": "eyePose",
+                    "type": "PassThrough",
+                    "id": "9dcf765a-9601-42c2-a328-241f20bc301a",
+                    "expectedControlType": "Pose",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3ffe7d1c-fe05-43bc-ba05-2379e515e7f1",
+                    "path": "<EyeGaze>/pose",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "eyePose",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hdri_test_urban.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vr-eeg\\Desktop\\environments_repo\\environments-vr\\hdri_test_urban\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "hdri_test_urban [Testing]"
+        }
+      }
+    }
+  ]
+}
